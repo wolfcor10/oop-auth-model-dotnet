@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/OopAuthModel.Console/OopAuthModel.Console.csproj" />
+  <Project Path="src/OopAuthModel.Domain/OopAuthModel.Domain.csproj" Id="0b73dbfe-2222-4fcf-a9e0-ab1146160551" />
+  <Project Path="src/OopAuthModel.Repositories/OopAuthModel.Repositories.csproj" />
+  <Project Path="src/OopAuthModel.Services/OopAuthModel.Services.csproj" />
+</Solution>

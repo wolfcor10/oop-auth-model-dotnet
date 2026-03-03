@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B47F3165-65D5-D92A-7F4B-98BAF930194F}|src\\OopAuthModel.Console\\OopAuthModel.Console.csproj|c:\\users\\wolfa\\desktop\\projectsrepogit\\oop-auth-model-dotnet\\src\\oopauthmodel.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47F3165-65D5-D92A-7F4B-98BAF930194F}|src\\OopAuthModel.Console\\OopAuthModel.Console.csproj|solutionrelative:src\\oopauthmodel.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5952D988-444A-8E49-15F7-71D1CD55B4E7}|src\\OopAuthModel.Services\\OopAuthModel.Services.csproj|c:\\users\\wolfa\\desktop\\projectsrepogit\\oop-auth-model-dotnet\\src\\oopauthmodel.services\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5952D988-444A-8E49-15F7-71D1CD55B4E7}|src\\OopAuthModel.Services\\OopAuthModel.Services.csproj|solutionrelative:src\\oopauthmodel.services\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5952D988-444A-8E49-15F7-71D1CD55B4E7}|src\\OopAuthModel.Services\\OopAuthModel.Services.csproj|c:\\users\\wolfa\\desktop\\projectsrepogit\\oop-auth-model-dotnet\\src\\oopauthmodel.services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5952D988-444A-8E49-15F7-71D1CD55B4E7}|src\\OopAuthModel.Services\\OopAuthModel.Services.csproj|solutionrelative:src\\oopauthmodel.services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5952D988-444A-8E49-15F7-71D1CD55B4E7}|src\\OopAuthModel.Services\\OopAuthModel.Services.csproj|c:\\users\\wolfa\\desktop\\projectsrepogit\\oop-auth-model-dotnet\\src\\oopauthmodel.services\\oopauthmodel.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5952D988-444A-8E49-15F7-71D1CD55B4E7}|src\\OopAuthModel.Services\\OopAuthModel.Services.csproj|solutionrelative:src\\oopauthmodel.services\\oopauthmodel.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5952D988-444A-8E49-15F7-71D1CD55B4E7}|src\\OopAuthModel.Services\\OopAuthModel.Services.csproj|c:\\users\\wolfa\\desktop\\projectsrepogit\\oop-auth-model-dotnet\\src\\oopauthmodel.services\\simplepasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5952D988-444A-8E49-15F7-71D1CD55B4E7}|src\\OopAuthModel.Services\\OopAuthModel.Services.csproj|solutionrelative:src\\oopauthmodel.services\\simplepasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5952D988-444A-8E49-15F7-71D1CD55B4E7}|src\\OopAuthModel.Services\\OopAuthModel.Services.csproj|c:\\users\\wolfa\\desktop\\projectsrepogit\\oop-auth-model-dotnet\\src\\oopauthmodel.services\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5952D988-444A-8E49-15F7-71D1CD55B4E7}|src\\OopAuthModel.Services\\OopAuthModel.Services.csproj|solutionrelative:src\\oopauthmodel.services\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09E9746-D05A-46C8-C972-219B90515C09}|src\\OopAuthModel.Repositories\\OopAuthModel.Repositories.csproj|c:\\users\\wolfa\\desktop\\projectsrepogit\\oop-auth-model-dotnet\\src\\oopauthmodel.repositories\\inmemoryuserrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09E9746-D05A-46C8-C972-219B90515C09}|src\\OopAuthModel.Repositories\\OopAuthModel.Repositories.csproj|solutionrelative:src\\oopauthmodel.repositories\\inmemoryuserrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09E9746-D05A-46C8-C972-219B90515C09}|src\\OopAuthModel.Repositories\\OopAuthModel.Repositories.csproj|c:\\users\\wolfa\\desktop\\projectsrepogit\\oop-auth-model-dotnet\\src\\oopauthmodel.repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09E9746-D05A-46C8-C972-219B90515C09}|src\\OopAuthModel.Repositories\\OopAuthModel.Repositories.csproj|solutionrelative:src\\oopauthmodel.repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B73DBFE-2222-4FCF-A9E0-AB1146160551}|src\\OopAuthModel.Domain\\OopAuthModel.Domain.csproj|c:\\users\\wolfa\\desktop\\projectsrepogit\\oop-auth-model-dotnet\\src\\oopauthmodel.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B73DBFE-2222-4FCF-A9E0-AB1146160551}|src\\OopAuthModel.Domain\\OopAuthModel.Domain.csproj|solutionrelative:src\\oopauthmodel.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B73DBFE-2222-4FCF-A9E0-AB1146160551}|src\\OopAuthModel.Domain\\OopAuthModel.Domain.csproj|c:\\users\\wolfa\\desktop\\projectsrepogit\\oop-auth-model-dotnet\\src\\oopauthmodel.domain\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B73DBFE-2222-4FCF-A9E0-AB1146160551}|src\\OopAuthModel.Domain\\OopAuthModel.Domain.csproj|solutionrelative:src\\oopauthmodel.domain\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B73DBFE-2222-4FCF-A9E0-AB1146160551}|src\\OopAuthModel.Domain\\OopAuthModel.Domain.csproj|c:\\users\\wolfa\\desktop\\projectsrepogit\\oop-auth-model-dotnet\\src\\oopauthmodel.domain\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B73DBFE-2222-4FCF-A9E0-AB1146160551}|src\\OopAuthModel.Domain\\OopAuthModel.Domain.csproj|solutionrelative:src\\oopauthmodel.domain\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B73DBFE-2222-4FCF-A9E0-AB1146160551}|src\\OopAuthModel.Domain\\OopAuthModel.Domain.csproj|c:\\users\\wolfa\\desktop\\projectsrepogit\\oop-auth-model-dotnet\\src\\oopauthmodel.domain\\credential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B73DBFE-2222-4FCF-A9E0-AB1146160551}|src\\OopAuthModel.Domain\\OopAuthModel.Domain.csproj|solutionrelative:src\\oopauthmodel.domain\\credential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47F3165-65D5-D92A-7F4B-98BAF930194F}|src\\OopAuthModel.Console\\OopAuthModel.Console.csproj|c:\\users\\wolfa\\desktop\\projectsrepogit\\oop-auth-model-dotnet\\src\\oopauthmodel.console\\oopauthmodel.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B47F3165-65D5-D92A-7F4B-98BAF930194F}|src\\OopAuthModel.Console\\OopAuthModel.Console.csproj|solutionrelative:src\\oopauthmodel.console\\oopauthmodel.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09E9746-D05A-46C8-C972-219B90515C09}|src\\OopAuthModel.Repositories\\OopAuthModel.Repositories.csproj|c:\\users\\wolfa\\desktop\\projectsrepogit\\oop-auth-model-dotnet\\src\\oopauthmodel.repositories\\oopauthmodel.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E09E9746-D05A-46C8-C972-219B90515C09}|src\\OopAuthModel.Repositories\\OopAuthModel.Repositories.csproj|solutionrelative:src\\oopauthmodel.repositories\\oopauthmodel.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Console\\Program.cs",
+              "RelativeDocumentMoniker": "src\\OopAuthModel.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Console\\Program.cs",
+              "RelativeToolTip": "src\\OopAuthModel.Console\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:13:57.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "src\\OopAuthModel.Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Services\\AuthenticationService.cs",
+              "RelativeToolTip": "src\\OopAuthModel.Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:13:28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorizationService.cs",
+              "DocumentMoniker": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Services\\AuthorizationService.cs",
+              "RelativeDocumentMoniker": "src\\OopAuthModel.Services\\AuthorizationService.cs",
+              "ToolTip": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Services\\AuthorizationService.cs",
+              "RelativeToolTip": "src\\OopAuthModel.Services\\AuthorizationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:12:51.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimplePasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Services\\SimplePasswordHasher.cs",
+              "RelativeDocumentMoniker": "src\\OopAuthModel.Services\\SimplePasswordHasher.cs",
+              "ToolTip": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Services\\SimplePasswordHasher.cs",
+              "RelativeToolTip": "src\\OopAuthModel.Services\\SimplePasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:12:18.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Services\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "src\\OopAuthModel.Services\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Services\\IPasswordHasher.cs",
+              "RelativeToolTip": "src\\OopAuthModel.Services\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:12:00.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OopAuthModel.Services",
+              "DocumentMoniker": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Services\\OopAuthModel.Services.csproj",
+              "RelativeDocumentMoniker": "src\\OopAuthModel.Services\\OopAuthModel.Services.csproj",
+              "ToolTip": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Services\\OopAuthModel.Services.csproj",
+              "RelativeToolTip": "src\\OopAuthModel.Services\\OopAuthModel.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T01:00:07.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryUserRepository .cs",
+              "DocumentMoniker": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Repositories\\InMemoryUserRepository .cs",
+              "RelativeDocumentMoniker": "src\\OopAuthModel.Repositories\\InMemoryUserRepository .cs",
+              "ToolTip": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Repositories\\InMemoryUserRepository .cs",
+              "RelativeToolTip": "src\\OopAuthModel.Repositories\\InMemoryUserRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:11:06.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\OopAuthModel.Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "src\\OopAuthModel.Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:10:41.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Domain\\Permission.cs",
+              "RelativeDocumentMoniker": "src\\OopAuthModel.Domain\\Permission.cs",
+              "ToolTip": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Domain\\Permission.cs",
+              "RelativeToolTip": "src\\OopAuthModel.Domain\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:09:32.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Domain\\Role.cs",
+              "RelativeDocumentMoniker": "src\\OopAuthModel.Domain\\Role.cs",
+              "ToolTip": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Domain\\Role.cs",
+              "RelativeToolTip": "src\\OopAuthModel.Domain\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:05:46.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Credential.cs",
+              "DocumentMoniker": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Domain\\Credential.cs",
+              "RelativeDocumentMoniker": "src\\OopAuthModel.Domain\\Credential.cs",
+              "ToolTip": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Domain\\Credential.cs",
+              "RelativeToolTip": "src\\OopAuthModel.Domain\\Credential.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:05:15.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Domain\\User.cs",
+              "RelativeDocumentMoniker": "src\\OopAuthModel.Domain\\User.cs",
+              "ToolTip": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Domain\\User.cs",
+              "RelativeToolTip": "src\\OopAuthModel.Domain\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:52:11.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OopAuthModel.Console",
+              "DocumentMoniker": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Console\\OopAuthModel.Console.csproj",
+              "RelativeDocumentMoniker": "src\\OopAuthModel.Console\\OopAuthModel.Console.csproj",
+              "ToolTip": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Console\\OopAuthModel.Console.csproj",
+              "RelativeToolTip": "src\\OopAuthModel.Console\\OopAuthModel.Console.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T01:00:35.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OopAuthModel.Repositories",
+              "DocumentMoniker": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Repositories\\OopAuthModel.Repositories.csproj",
+              "RelativeDocumentMoniker": "src\\OopAuthModel.Repositories\\OopAuthModel.Repositories.csproj",
+              "ToolTip": "C:\\Users\\wolfa\\Desktop\\ProjectsRepoGit\\oop-auth-model-dotnet\\src\\OopAuthModel.Repositories\\OopAuthModel.Repositories.csproj",
+              "RelativeToolTip": "src\\OopAuthModel.Repositories\\OopAuthModel.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T00:59:51.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "OopAuthModel.Repositories/1.0.0": {
+        "dependencies": {
+          "OopAuthModel.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OopAuthModel.Repositories.dll": {}
+        }
+      },
+      "OopAuthModel.Domain/1.0.0": {
+        "runtime": {
+          "OopAuthModel.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OopAuthModel.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OopAuthModel.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
